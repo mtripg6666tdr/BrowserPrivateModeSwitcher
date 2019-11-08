@@ -5,7 +5,7 @@
 
 # Available Environment
  This program is only for Windows.
- I checked that this program can run in Windows10, so it may not run in old Windows versions.
+ I checked that this program can run in only Windows10, so it may not run in old Windows versions.
 
 # Available Language
  This program using .NET localization can run in Japanese and English.
