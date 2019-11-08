@@ -1,0 +1,15 @@
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\bin\Debug\BrowserPrivateModeSwitcher.exe.config
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\bin\Debug\BrowserPrivateModeSwitcher.exe
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\bin\Debug\BrowserPrivateModeSwitcher.pdb
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\bin\Debug\en-US\BrowserPrivateModeSwitcher.resources.dll
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.csprojAssemblyReference.cache
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.Form1.resources
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.keyInput.resources
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.Properties.Resources.resources
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.Form1.en-US.resources
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.keyInput.en-US.resources
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.csproj.GenerateResource.cache
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\en-US\BrowserPrivateModeSwitcher.resources.dll
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.exe
+C:\Users\ma-kunn\source\repos\BrowserPrivateModeSwitcher\BrowserPrivateModeSwitcher\obj\Debug\BrowserPrivateModeSwitcher.pdb
