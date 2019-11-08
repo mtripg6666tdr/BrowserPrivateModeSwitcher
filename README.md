@@ -15,5 +15,3 @@
 
 # Auther
  mtripg6666tdr
-
-[END]
