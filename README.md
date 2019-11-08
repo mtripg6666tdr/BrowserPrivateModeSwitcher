@@ -1,6 +1,6 @@
 # BrowserPrivateModeSwitcher
  You can unenable browser's private mode.
- The browsers which you can unenable whose private mode are Google Chrome, Internet Explorer, Microsoft Edge.
+ The browsers which you can unenable whose private mode are Google Chrome, Internet Explorer and Microsoft Edge.
  The execution file (*.exe) has not been uploaded, so you have to compile this program yourself if you want to run.
 
 # Available Environment
