@@ -11,7 +11,7 @@
  This program using .NET localization can run in Japanese and English.
 
 # Require Component
- .NET Framework 4.7
+ .NET Framework 4.6.1
 
 # Auther
  mtripg6666tdr
