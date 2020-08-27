@@ -13,5 +13,5 @@
 # Require Component
  .NET Framework 4.6.1
 
-# Auther
+# Author
  mtripg6666tdr
